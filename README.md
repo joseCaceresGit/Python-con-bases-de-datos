@@ -16,3 +16,7 @@ CREATE TABLE "ESTUDIANTE" (
   "EDAD" int2,
   PRIMARY KEY ("id")
 );
+
+Para correr el programa ejecutar:
+
+main.py
